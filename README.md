@@ -3,11 +3,13 @@ About r-shiny.fluent-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-shiny.fluent-feedstock/blob/main/LICENSE.txt)
 
-Home: https://appsilon.github.io/shiny.fluent/, https://github.com/appsilon/shiny.fluent
+Home: https://appsilon.github.io/shiny.fluent/
 
 Package license: LGPL-3.0-only
 
 Summary: A rich set of UI components for building Shiny applications, including inputs, containers, overlays, menus, and various utilities. All components from Fluent UI (the underlying JavaScript library) are available and have usage examples in R.
+
+Development: https://github.com/appsilon/shiny.fluent
 
 Current build status
 ====================
